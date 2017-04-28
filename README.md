@@ -18,7 +18,7 @@
 - ScanWedge setup (e.g. http://hsm.force.com/publickb/articles/HSM_Article/How-to-open-the-ScanWedge-to-read-a-bar-code/?q=ScanWedge&l=en_US&fs=Search&pn=1, http://hsm.force.com/publickb/articles/HSM_Article/ScanWedge-is-not-reading-a-symbology/?q=ScanWedge&l=en_US&fs=Search&pn=1)
 
 ### Steps
-- deploy app (http://www.smartmobiledevice.co.uk/HowTo/CreateCabProject, http://www.smartmobiledevice.co.uk/HowTo/CreateCabProject)
+- deploy app (http://www.smartmobiledevice.co.uk/HowTo/CreateCabProject, http://www.smartmobiledevice.co.uk/HowTo/DeployToWM65)
 - install app (launch CAB file)
 - launch app
 - (launch ScanWedge)
