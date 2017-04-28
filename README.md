@@ -5,6 +5,7 @@
 - Microsoft Windows Mobile Device Center 6.1 Driver (64-bit)
 - Windows Mobile 6 Professional SDK Refresh
 - Windows Mobile 6.5.3 Professional DTK
+- (Resharper 8.2.3)
 
 ## Barcode Scanner DEMO setup
 ### Environment
