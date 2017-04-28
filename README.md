@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - Visual Studio 2008 Professional with SP1
-- Microsoft Windows Mobile Device Center 6.1 Driver for Windows Vista (64-bit)
+- Microsoft Windows Mobile Device Center 6.1 Driver (64-bit)
 - Windows Mobile 6 Professional SDK Refresh
 - Windows Mobile 6.5.3 Professional DTK
 
