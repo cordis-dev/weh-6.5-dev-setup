@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeScannerDemo", "BarcodeScannerDemo\BarcodeScannerDemo.csproj", "{CDC857FD-61DF-4C11-AF4E-800F1B5A984F}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "BarcodeScannerDemoDeploy", "BarcodeScannerDemoDeploy\BarcodeScannerDemoDeploy.vddproj", "{8DF75313-C427-4328-8F11-B0E3FAACA3E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC857FD-61DF-4C11-AF4E-800F1B5A984F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC857FD-61DF-4C11-AF4E-800F1B5A984F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC857FD-61DF-4C11-AF4E-800F1B5A984F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CDC857FD-61DF-4C11-AF4E-800F1B5A984F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC857FD-61DF-4C11-AF4E-800F1B5A984F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC857FD-61DF-4C11-AF4E-800F1B5A984F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8DF75313-C427-4328-8F11-B0E3FAACA3E5}.Debug|Any CPU.ActiveCfg = Debug
+		{8DF75313-C427-4328-8F11-B0E3FAACA3E5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
